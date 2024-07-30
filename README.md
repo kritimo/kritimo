@@ -3,7 +3,7 @@
 
 I am a recent computer science graduate from the University of Michigan. Over the past few years, I have gained experience working with many languages including Python, C++, Java, HTML and topics including Data Structures and Algorithms, Computer Vision, Computer Networks, Web Systems, and Machine Learning.
 
-[![LinkedIn](linkedin.jpg)](https://www.linkedin.com/in/kriti-moogala-6380291b9/)
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/kriti-moogala-6380291b9/)
 
 
 <!--
